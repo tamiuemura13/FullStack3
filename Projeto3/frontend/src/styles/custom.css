@@ -1,0 +1,47 @@
+body {
+    background-color: #f8f9fa; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .container {
+    max-width: 600px; 
+    background-color: #c7c9ca; 
+    border-radius: 16px;
+    padding: 20px;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .btn-primary {
+    width: 100%;
+  }
+
+  .btn-secondary{
+    width: 100%;
+  }
+
+  .btn-danger{
+    width: 100%;
+  }
+  
+  .mt-3 {
+    margin-top: 1rem !important;
+  }
+  
+  .list-group-item {
+    font-size: 1.1rem;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .list-group-item span {
+    font-weight: bold;
+  }
+  
+  

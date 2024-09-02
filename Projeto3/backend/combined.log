@@ -1,0 +1,7 @@
+{"level":"info","message":"Servidor rodando em http://localhost:3001","timestamp":"2024-08-30T01:08:04.654Z"}
+{"level":"info","message":"Conectado ao MySQL como id 34","timestamp":"2024-08-30T01:08:04.685Z"}
+{"level":"info","message":"Servidor rodando em http://localhost:3001","timestamp":"2024-09-02T22:41:27.748Z"}
+{"level":"info","message":"Conectado ao MySQL como id 35","timestamp":"2024-09-02T22:41:28.024Z"}
+{"level":"warn","message":"Usuário não encontrado: ","timestamp":"2024-09-02T22:57:18.525Z"}
+{"level":"warn","message":"Usuário não encontrado: teste1","timestamp":"2024-09-02T23:03:34.950Z"}
+{"level":"warn","message":"Senha incorreta para usuário: teste","timestamp":"2024-09-02T23:03:45.531Z"}
